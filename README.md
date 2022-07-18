@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Webpage adaptation of onboard game.<br>🌱 I’m currently learning React js framework, NodeJS.<br>
+🔭 I’m currently working on online version of onboard game.<br>🌱 I’m currently learning React js framework, NodeJS.<br>
 
 
 ## 🌐 Socials:
